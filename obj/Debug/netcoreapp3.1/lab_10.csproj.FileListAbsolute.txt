@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\lab_10\obj\Debug\netcoreapp3.1\lab_10.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\lab_10\obj\Debug\netcoreapp3.1\lab_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\lab_10\obj\Debug\netcoreapp3.1\lab_10.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\lab_10\obj\Debug\netcoreapp3.1\lab_10.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\lab_10\obj\Debug\netcoreapp3.1\lab_10.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\lab_10\bin\Debug\netcoreapp3.1\lab_10.exe
+C:\Users\ASUS\source\repos\lab_10\bin\Debug\netcoreapp3.1\lab_10.deps.json
+C:\Users\ASUS\source\repos\lab_10\bin\Debug\netcoreapp3.1\lab_10.runtimeconfig.json
+C:\Users\ASUS\source\repos\lab_10\bin\Debug\netcoreapp3.1\lab_10.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\lab_10\bin\Debug\netcoreapp3.1\lab_10.dll
+C:\Users\ASUS\source\repos\lab_10\bin\Debug\netcoreapp3.1\lab_10.pdb
+C:\Users\ASUS\source\repos\lab_10\obj\Debug\netcoreapp3.1\lab_10.dll
+C:\Users\ASUS\source\repos\lab_10\obj\Debug\netcoreapp3.1\lab_10.pdb
+C:\Users\ASUS\source\repos\lab_10\obj\Debug\netcoreapp3.1\lab_10.genruntimeconfig.cache
